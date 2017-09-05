@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="495dp"
+    android:layout_centerHorizontal="true"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.urscore.app.urscore.MainActivity">
+
+
+    <!--<com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="425px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_above="@+id/linkedinlogin"
+        android:layout_centerHorizontal="true" />
+-->
+
+    <ImageView
+        android:id="@+id/linkedinlogin"
+        android:layout_width="match_parent"
+        android:layout_height="80px"
+        android:src="@drawable/ic_login_linkedin"
+        android:layout_above="@+id/resbtn"
+        android:layout_toRightOf="@+id/img"
+        android:layout_toEndOf="@+id/img"
+        android:layout_marginBottom="16dp" />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/imgProfile"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:layout_marginTop="23dp"-->
+        <!--android:layout_below="@+id/img"-->
+        <!--android:layout_centerHorizontal="true" />-->
+
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible" />
+
+
+    <Button
+        android:id="@+id/resbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:text="Show Me My Score"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/nametv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Guest"
+        android:layout_below="@+id/imgProfile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hi"
+        android:layout_alignBaseline="@+id/nametv"
+        android:layout_alignBottom="@+id/nametv"
+        android:layout_toLeftOf="@+id/nametv"
+        android:layout_toStartOf="@+id/nametv" />
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/googlebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/resbtn"
+        android:layout_toRightOf="@+id/img"
+        android:layout_toEndOf="@+id/img" />
+
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:id="@+id/smslist"
+            android:layout_height="90dp"
+            android:layout_below="@+id/nametv"
+            android:layout_toRightOf="@+id/img"
+            android:layout_toEndOf="@+id/img"
+            android:layout_marginTop="29dp" />
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "33032090389",
+    "project_id": "urscore-171408"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33032090389:android:6f97661150dfd546",
+        "android_client_info": {
+          "package_name": "com.urscore.app.urscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33032090389-4pkuott97udni8mjgeq5moh6atlmvn7m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "33032090389-rku65b65u5fr4arhqm27cgs5g2gnnedr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urscore.app.urscore",
+            "certificate_hash": "9b4c7e5c561351a0a0517109a42aaaa05f5b7b79"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5y1oK5x7LNC-zBxIhhscap0-lAKyh2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-101401257-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

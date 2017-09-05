@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\values-w720dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 76,
+                        "endOffset": 352
+                    }
+                }
+            }
+        ]
+    }
+]

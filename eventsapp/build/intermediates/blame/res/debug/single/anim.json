@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Piyush\\AndroidStudioProjects\\UrScore\\eventsapp\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Piyush\\.android\\build-cache\\cb51aac2eb21893f5b4703ade645a3ea7936c3e0\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]
